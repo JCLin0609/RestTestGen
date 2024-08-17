@@ -1,2 +1,2 @@
-apiUnderTest: bookstore
+apiUnderTest: demo-server
 strategyClassName: NominalAndErrorStrategy
